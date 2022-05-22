@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="aegis.code.check.validation" enabled="false" level="Code Format" enabled_by_default="false" />
+    <inspection_tool class="aegis.code.check.validation.java" enabled="false" level="Code Format" enabled_by_default="false" />
+    <inspection_tool class="aegis.code.check.validation.java.format" enabled="false" level="Code Format" enabled_by_default="false" />
+    <inspection_tool class="aegis.code.check.validation.javascript.format" enabled="false" level="Code Format" enabled_by_default="false" />
+    <inspection_tool class="aegis.code.check.validation.kotlin" enabled="false" level="Code Format" enabled_by_default="false" />
+    <inspection_tool class="aegis.code.check.validation.kotlin.format" enabled="false" level="Code Format" enabled_by_default="false" />
+    <inspection_tool class="aegis.code.check.validation.name.java.object" enabled="false" level="Code Format" enabled_by_default="false" />
+    <inspection_tool class="aegis.code.check.validation.name.object" enabled="false" level="Code Format" enabled_by_default="false" />
+    <inspection_tool class="aegis.code.check.validation.typescript.format" enabled="false" level="Code Format" enabled_by_default="false" />
+    <inspection_tool class="aegis.code.check.validation.xml.mybatis" enabled="false" level="Code Format" enabled_by_default="false" />
+  </profile>
+</component>
